@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.div1{
+  background-color: blue;
+}
+.ul li{
+  list-style: none;
+  display: inline-block;
+  font-size:20px ;
+  margin: 15px;
+  color: white;
+}
